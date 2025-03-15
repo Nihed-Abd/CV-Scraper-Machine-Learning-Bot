@@ -56,7 +56,6 @@ pip install -r requirements.txt
 ## Demo Video
 
 ![Demo Video](Demo/demo.mp4)
-
 ## Usage
 
 1. Start the bot by running:
