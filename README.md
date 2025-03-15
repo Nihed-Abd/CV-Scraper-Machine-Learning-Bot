@@ -42,8 +42,8 @@ A Telegram bot designed to help collect CV data for training ATS (Applicant Trac
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/TuniHireBot.git
-cd TuniHireBot
+git clone https://github.com/Nihed-Abd/CV-Scraper-Machine-Learning-Bot
+cd CV-Scraper-Machine-Learning-Bot
 ```
 
 2. Install dependencies:
