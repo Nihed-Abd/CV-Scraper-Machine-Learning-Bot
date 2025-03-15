@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. In Telegram, find your bot (@TuniHireBot) and start a conversation.
+2. In Telegram, find your bot (@Your_Bot_name) and start a conversation.
 
 3. Use the following commands:
    - `/start` - Begin a new scraping session
