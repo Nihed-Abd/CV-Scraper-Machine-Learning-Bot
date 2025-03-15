@@ -1,0 +1,24 @@
+TuniHire ATS System - Machine Learning Analysis Report
+
+Generated on: 2025-03-14 04:59
+Target Country: Tunisia
+Number of CVs: 100
+Data Source: Google
+
+1. Business Understanding
+The primary objective of this ATS is to efficiently evaluate and rank job candidates based on their CVs.
+
+2. Data Understanding
+Analysis of 100 CVs from Tunisia.
+
+3. Data Preparation
+Data cleaning, feature engineering, and preprocessing steps were applied.
+
+4. Modeling
+Implemented KNN, SVM, and AdaBoost models.
+
+5. Evaluation
+SVM model demonstrated the best overall performance.
+
+6. Conclusion and Recommendations
+Recommend implementing the SVM model with periodic retraining.
